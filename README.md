@@ -76,6 +76,11 @@ The dashboard enables users to explore funding trends, investor preferences, sec
   streamlit run app.py
 
 5.Open the local URL shown in the terminal in your browser.
+
+## Project Demo Video
+
+[Click here to watch the demo video](Video_Project.mp4)
+
   
 
 
@@ -84,6 +89,7 @@ This version is:
 - Minimal
 - GitHub-standard
 - Easy to scan
+
 
 
 
