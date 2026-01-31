@@ -61,3 +61,30 @@ The dashboard enables users to explore funding trends, investor preferences, sec
 ## How to Run the Project
 
 1. Clone the repository
+   https://github.com/AnishaKhiratkar/startup-funding-dashboard.git
+
+2.Navigate to the project folder
+   cd startup-funding-dashboard
+ 
+3.Install dependencies
+  pip install -r requirements.txt
+
+4.Run the application
+  streamlit run app.py
+
+5.Open the local URL shown in the terminal in your browser.
+  
+---
+
+This version is:
+- Recruiter-friendly
+- Minimal
+- GitHub-standard
+- Easy to scan
+
+If you want, I can now:
+- finalize your **entire README**
+- review your **GitHub repo like a hiring manager**
+- write **resume bullet points** from this project
+
+
